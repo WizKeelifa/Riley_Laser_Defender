@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "WaveConfigSO", menuName = "~/Library/CloudStorage/OneDrive-SUNYMorrisville/CITA 212/Laser Defender/Assets/Scripts/WaveConfigSO.cs/WaveConfigSO", order = 0)]
+[CreateAssetMenu(menuName = "Wave Config", fileName = "New Wave Config")]
 public class WaveConfigSO : ScriptableObject 
 {
    [SerializeField] Transform pathPrefab;
