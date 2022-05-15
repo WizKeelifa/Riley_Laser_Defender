@@ -28,6 +28,7 @@ public class AudioPlayer : MonoBehaviour
         }
         else
         {
+            instance = this;
             DontDestroyOnLoad(gameObject);
         }
 
