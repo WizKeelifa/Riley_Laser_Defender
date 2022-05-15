@@ -1149,6 +1149,10 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5615103520584967245, guid: 488d2e52070c24a57bdf147e6293d6fe, type: 3}
+      propertyPath: projectileSpeed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5943656083859867294, guid: 488d2e52070c24a57bdf147e6293d6fe, type: 3}
       propertyPath: m_Name
       value: Player
